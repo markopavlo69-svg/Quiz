@@ -1,0 +1,5 @@
+marko,15
+marko,15
+rot,15
+marko,5
+ana,0
